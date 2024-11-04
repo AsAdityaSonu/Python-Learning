@@ -1,0 +1,3 @@
+------- LINK -------
+
+https://www.kaggle.com/datasets/jahias/microsoft-adventure-works-cycles-customer-data
